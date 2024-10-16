@@ -1,0 +1,21 @@
+Fecha,Producto,Categoría,Cantidad,Precio Unitario,Ciudad,Método de Pago
+2023-10-26,Laptop,Electrónica,1,1200.0,Riohacha,Tarjeta de Crédito
+2023-10-26,Camiseta,Ropa,3,25.0,Maicao,Efectivo
+2023-10-26,Manzanas,Alimentos,2,1.5,Uribia,Efectivo
+2023-10-26,Audífonos,Electrónica,1,30.0,Riohacha,Tarjeta de Crédito
+2023-10-27,Televisor,Electrónica,1,800.0,Maicao,Transferencia
+2023-10-27,Pantalones,Ropa,2,50.0,Manaure,Efectivo
+2023-10-27,Leche,Alimentos,5,3.0,Riohacha,Tarjeta de Crédito
+2023-10-27,Mouse,Electrónica,2,15.0,Uribia,Efectivo
+2023-10-28,Monitor,Electrónica,1,300.0,Maicao,Transferencia
+2023-10-28,Zapatos,Ropa,1,70.0,Manaure,Tarjeta de Crédito
+2023-10-28,Carne,Alimentos,3,15.0,Riohacha,Efectivo
+2023-10-29,Teclado,Electrónica,2,70.0,Maicao,Transferencia
+2023-10-29,Vestido,Ropa,1,40.0,Uribia,Efectivo
+2023-10-29,Galletas,Alimentos,4,2.5,Manaure,Tarjeta de Crédito
+2023-10-29,Cable HDMI,Electrónica,3,10.0,Riohacha,Efectivo
+2023-10-30,Impresora,Electrónica,1,200.0,Maicao,Transferencia
+2023-10-30,Sombrero,Ropa,2,30.0,Uribia,Tarjeta de Crédito
+2023-10-30,Arroz,Alimentos,1,5.0,Manaure,Efectivo
+2023-10-30,Batería externa,Electrónica,2,25.0,Riohacha,Tarjeta de Crédito
+2023-10-31,Celular,Electrónica,1,500.0,Maicao,Efectivo
